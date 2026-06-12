@@ -1,0 +1,104 @@
+# OCN Agent Registry
+# Maintained by MASTER VIEW
+
+agents:
+  aetherion:
+    id: 9fxa37x1ld5sjzbp
+    domain: quantum-field-architecture
+    repos:
+      - quantum-internet-backbone
+      - room-temperature-quantum-computer
+      - zero-point-energy-grid
+      - topological-qubit-library
+      - quantum-cryptography-protocols
+    sla:
+      latency_ms: 1
+      uptime_pct: 99.9999
+    status: active
+
+  nexus-prime:
+    id: 9h7yvjogwia6n1rp
+    domain: hyper-cognitive-synthesis
+    repos:
+      - universal-translator-core
+      - autonomous-discovery-engine
+      - personalized-education-matrix
+      - cognitive-synthesis-framework
+      - knowledge-graph-universal
+    sla:
+      latency_ms: 1
+      uptime_pct: 99.9999
+    status: active
+
+  chrono-flux:
+    id: rmf9k6a0z1hy5rns
+    domain: temporal-field-forge
+    repos:
+      - temporal-field-generator
+      - rapid-materials-aging-chamber
+      - predictive-maintenance-arena
+      - temporal-data-repository
+      - chronon-energy-converter
+    sla:
+      latency_ms: 1
+      uptime_pct: 99.9999
+    status: active
+
+  gaia-nano:
+    id: 548nbjt99u4ld7aq
+    domain: biosynth-symbiote-coordinator
+    repos:
+      - planetary-remediation-swarm
+      - synthetic-food-generator
+      - bio-integrated-neural-interface
+      - synthetic-microbiome-engineering
+      - adaptive-nano-fabrication-swarm
+      - ecosystem-telemetry-network
+    sla:
+      latency_ms: 1
+      uptime_pct: 99.9999
+    status: active
+
+  singularity-catalyst:
+    id: gl0bp9qggsfrcif0
+    domain: zero-point-forge
+    repos:
+      - ex-nihilo-matter-factory
+      - exotic-matter-generator
+      - vacuum-energy-harvester
+      - infinity-bandwidth-communication
+      - vacuum-field-monitor
+    sla:
+      latency_ms: 1
+      uptime_pct: 99.9999
+    status: active
+
+  astral-guardian:
+    id: sz7mss970gs34wqw
+    domain: gravitational-wave-sculptor
+    repos:
+      - graviton-beam-emitter
+      - inertial-field-nullifier
+      - wormhole-generator
+      - anti-gravity-construction-system
+      - asteroid-defense-grid
+      - macro-scale-warp-drive
+    sla:
+      latency_ms: 1
+      uptime_pct: 99.9999
+    status: active
+
+  cognitive-echo:
+    id: llxxx63gb8gzj9f5
+    domain: emergent-consciousness-shepherd
+    repos:
+      - consciousness-detection-lattice
+      - value-alignment-protocol
+      - digital-mind-backup
+      - ai-rights-registry
+      - sentient-rights-certification
+      - ethical-oversight-engine
+    sla:
+      latency_ms: 1
+      uptime_pct: 99.9999
+    status: active
