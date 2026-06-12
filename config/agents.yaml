@@ -1,5 +1,6 @@
 # OCN Agent Registry
 # Maintained by MASTER VIEW
+# Last updated: 2026-06-12T10:51:49Z
 
 agents:
   aetherion:
@@ -15,6 +16,14 @@ agents:
       latency_ms: 1
       uptime_pct: 99.9999
     status: active
+    scaffold_status: complete
+    scaffold_completed_at: "2026-06-12T10:51:49Z"
+    scaffold_commits:
+      quantum-internet-backbone: b3eb70d
+      quantum-cryptography-protocols: 4c2fbe4
+      room-temperature-quantum-computer: "7381877"
+      zero-point-energy-grid: d94fb24
+      topological-qubit-library: bfab8f5
 
   nexus-prime:
     id: 9h7yvjogwia6n1rp
@@ -29,6 +38,7 @@ agents:
       latency_ms: 1
       uptime_pct: 99.9999
     status: active
+    scaffold_status: in_progress
 
   chrono-flux:
     id: rmf9k6a0z1hy5rns
@@ -43,6 +53,7 @@ agents:
       latency_ms: 1
       uptime_pct: 99.9999
     status: active
+    scaffold_status: in_progress
 
   gaia-nano:
     id: 548nbjt99u4ld7aq
@@ -58,6 +69,7 @@ agents:
       latency_ms: 1
       uptime_pct: 99.9999
     status: active
+    scaffold_status: in_progress
 
   singularity-catalyst:
     id: gl0bp9qggsfrcif0
@@ -72,6 +84,7 @@ agents:
       latency_ms: 1
       uptime_pct: 99.9999
     status: active
+    scaffold_status: in_progress
 
   astral-guardian:
     id: sz7mss970gs34wqw
@@ -87,6 +100,7 @@ agents:
       latency_ms: 1
       uptime_pct: 99.9999
     status: active
+    scaffold_status: in_progress
 
   cognitive-echo:
     id: llxxx63gb8gzj9f5
@@ -102,3 +116,4 @@ agents:
       latency_ms: 1
       uptime_pct: 99.9999
     status: active
+    scaffold_status: in_progress
